@@ -1,1 +1,2 @@
 # Covid-19-Smart-Sanitizer
+The best preventive measure against Covid-19, the global pandemic which has affected literally everyone of our lives is regularly washing hands using hand-sanitizer or soap. But there is an added risk of spreading the virus due to contact with the sanitizer bottle. This Smart-Sanitizer senses if a person is near/wants to use the sanitizer and works automatically without any physical contact. Moreover it also senses the count of visitors  
